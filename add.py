@@ -1,3 +1,4 @@
 a=200
 b=300
-print(a+b)
+c=500
+print(a+b+c)
